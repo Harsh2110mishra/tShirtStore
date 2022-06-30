@@ -7,7 +7,7 @@
     "node": "16.15.0"
   },
   "scripts": {
-    "start": "node index",
+    "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": [],
