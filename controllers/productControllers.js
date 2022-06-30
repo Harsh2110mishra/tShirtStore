@@ -1,4 +1,4 @@
-const Product = require("../models/Product");
+const Product = require("../models/product");
 const BigPromise = require("../middlewares/bigPromise");
 const cloudinary = require("cloudinary").v2;
 const WhereClause = require("../utils/whereClause");

@@ -1,5 +1,5 @@
 const Order = require("../models/order");
-const Product = require("../models/Product");
+const Product = require("../models/product");
 
 // middlewares
 const BigPromise = require("../middlewares/bigPromise");
