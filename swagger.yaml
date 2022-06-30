@@ -45,7 +45,7 @@ components:
 
 
 paths:
-  /dummy:
+  /:
     get:
       tags:
         - Home
